@@ -21,7 +21,6 @@
     "issues": "https://github.com/amnuts/opcache-gui/issues"
   },
   "require": {
-    "ext-Zend-OPcache": "*",
     "php": ">=5.4"
   },
   "autoload": {
